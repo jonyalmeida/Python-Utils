@@ -1,4 +1,5 @@
-from phonenumbers import carrier, geocoder, phonenumbers
+import phonenumbers
+from phonenumbers import carrier, geocoder
 from tabulate import DataRow, tabulate
 
 
